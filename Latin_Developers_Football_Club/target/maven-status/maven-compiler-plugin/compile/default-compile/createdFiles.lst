@@ -1,0 +1,9 @@
+com\udea\Latin_Developers_Football_Club\controllers\ClubController.class
+com\udea\Latin_Developers_Football_Club\entity\Player.class
+com\udea\Latin_Developers_Football_Club\services\PlayerService.class
+com\udea\Latin_Developers_Football_Club\controllers\PlayerController.class
+com\udea\Latin_Developers_Football_Club\LatinDevelopersFootballClubApplication.class
+com\udea\Latin_Developers_Football_Club\repository\ClubRepository.class
+com\udea\Latin_Developers_Football_Club\entity\Club.class
+com\udea\Latin_Developers_Football_Club\repository\PlayerRepository.class
+com\udea\Latin_Developers_Football_Club\services\ClubService.class
